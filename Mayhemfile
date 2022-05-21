@@ -1,0 +1,6 @@
+project: rnshah9/doas
+target: doas
+
+cmds:
+  - cmd: /repo/doas echo foo
+    filepath: /usr/local/etc/doas.conf
