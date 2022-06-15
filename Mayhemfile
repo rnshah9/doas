@@ -1,4 +1,4 @@
-project: rnshah9/doas
+project: doas
 target: doas
 
 cmds:
