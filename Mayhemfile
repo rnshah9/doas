@@ -3,4 +3,4 @@ target: doas
 
 cmds:
   - cmd: /doas echo foo
-    filepath: /usr/local/etc/doas.conf
+    filepath: /install/usr/local/etc/doas.conf
