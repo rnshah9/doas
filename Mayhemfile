@@ -2,5 +2,4 @@ project: doas
 target: doas
 
 cmds:
-  - cmd: /repo/doas echo foo
-    filepath: /usr/local/etc/doas.conf
+  - cmd: /doas echo foo
