@@ -1,5 +1,7 @@
 project: doas
 target: doas
+testsuite:
+  - file://doas.conf.sample
 
 cmds:
   - cmd: /doas echo foo
